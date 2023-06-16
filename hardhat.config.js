@@ -7,7 +7,7 @@ module.exports = {
     alfajores: {
       url: "https://alfajores-forno.celo-testnet.org",
       accounts: {
-        mnemonic: "taxi expire enforce produce expire second pottery come knee fold slab yard",
+        mnemonic: "",
         path: "m/44'/52752'/0'/0",
       },
       chainId: 44787,
